@@ -5,6 +5,7 @@
 - 📫 How to reach me ...E-mail me.
 - 😄 Pronouns: ... Nishi
 - ⚡ Fun fact: ...Love to explore and play with data
+- 👀 Other Websites: https://public.tableau.com/app/profile/nishigandha.v.wankhade/vizzes
 
 <!---
 Nishigandha-Wankhade/Nishigandha-Wankhade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
