@@ -3,7 +3,7 @@
 - 🌱 I’m getting hands-on ...Python ( pandas, numpy, seaborn, scikit-learn, matplotlib)
 - 💞️ I’m looking to collaborate on ...any data analytics projects
 - 📫 How to reach me ...E-mail me.
-- 😄 Pronouns: ... Nishi
+- 😄 Pronouns: ... Nishi (Her)
 - ⚡ Fun fact: ...Love to explore and play with data
 - 👀 Other Websites: https://public.tableau.com/app/profile/nishigandha.v.wankhade/vizzes
 
