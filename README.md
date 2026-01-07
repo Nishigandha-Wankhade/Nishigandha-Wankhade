@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nishigandha-Wankhade
+- 👋 Hi, I’m @Nishigandha-V-Wankhade
 - 👀 I’m interested in ... Data Science, Data Analytics, Python, SQL, R
 - 🌱 I have hands-on ...Python ( pandas, numpy, seaborn, scikit-learn, matplotlib, TensorFlow)
 - 💞️ I’m looking to collaborate on ...any data analytics projects
