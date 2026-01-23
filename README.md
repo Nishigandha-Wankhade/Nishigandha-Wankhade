@@ -1,3 +1,4 @@
+# Hi, My name is NIshigandha V Wankhade
 # 💫 About Me:
 🔭 I’m currently working on data analytics and data science projects involving EDA, predictive modeling, NLP, and LLM-based analytics workflows<br><br>👯 I’m looking to collaborate on data analysis, machine learning, NLP, and AI-driven analytics projects<br><br>🤝 I’m looking for help with advanced machine learning, scalable data pipelines, and production-grade AI systems<br><br>🌱 I’m currently learning advanced statistics, model interpretability, LLM evaluation, and data engineering best practices<br><br>💬 Ask me about SQL, Python, EDA, predictive modeling, NLP, dashboards, and turning data into actionable insights<br><br>⚡ Fun fact: I enjoy breaking down complex datasets and models into simple, business-friendly stories
 
